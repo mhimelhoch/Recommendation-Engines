@@ -1,2 +1,30 @@
-Test  
-new text
+#Summary
+
+1. EDA & Data Visualization
+
+2. Overarching Models:
+
+    - Association Rule Learning
+    - Collaborative Filtering
+    - Content Based
+ 
+    
+3. Methods Within These Models:
+
+    - Turicreate (CF & Popularity)
+    - Matrix Factorization & Stochastic Gradient Descent (Predicting User Ratings that are currently NaN
+    - TfIDF, Truncated SVD & KMeans (Content Based)
+    - CountVectorizer (Recommends Products based on Description)
+    - Apriori Association Rule Analysis
+    - LightFM
+    - Slope One (milarity Method)
+    - SVD/SVD++ 
+    - KNN
+    - NMF
+
+    
+4. Parameter Optimization
+
+5. Accuracy Metrics & Results
+
+6. Summary & Results
